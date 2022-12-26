@@ -1,0 +1,3 @@
+D:/HTML and css/html-css-course-master/final/02-HTML-Fundamentals/cmake-build-debug/CMakeFiles/02_HTML_Fundamentals.dir
+D:/HTML and css/html-css-course-master/final/02-HTML-Fundamentals/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HTML and css/html-css-course-master/final/02-HTML-Fundamentals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
